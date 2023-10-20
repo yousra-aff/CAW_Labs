@@ -1,0 +1,34 @@
+
+            Solution of the fifth question:
+
+The depth of the DOM tree for the HTML document is:4
+Depth 1: <html>
+Depth 2: <head>, <body>
+Depth 3: <title>, <h1>, <h1>, <h1>, <h1>
+Depth 4: <h2>, <p>, <h2>, <p>, <h2>, <p>, <h2>, <p>
+
+
+-<html> (Depth 1)
+  -<head> (Depth 2)
+    -<title> (Depth 3)
+  -<body> (Depth 2)
+    -<h1> (Depth 3)
+      -<h2> (Depth 4)
+      -<p> (Depth 4)
+      -<h2> (Depth 4)
+      -<p> (Depth 4)
+    -<h1> (Depth 3)
+      -<h2> (Depth 4)
+      -<p> (Depth 4)
+      -<h2> (Depth 4)
+      -<p> (Depth 4)
+    -<h1> (Depth 3)
+      -<h2> (Depth 4)
+      -<p> (Depth 4)
+      -<h2> (Depth 4)
+      -<p> (Depth 4)
+    -<h1> (Depth 3)
+      -<h2> (Depth 4)
+      -<p> (Depth 4)
+      -<h2> (Depth 4)
+      -<p> (Depth 4)

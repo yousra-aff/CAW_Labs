@@ -1,0 +1,27 @@
+-mkdir learn_git
+-cd learn_git
+-git init
+-git add three.txt
+-git config --global user.name "yousra"
+-git config --global user.email "yousra.affes@univ-constantine2.dz"
+-git commit -m "three.txt added"
+-git log
+-git add four.txt
+-git commit -m "added four.txt "
+-del three.txt
+-git add three.txt
+-git commit -m "delete three.txt"
+-git log
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,24 +1,12 @@
 
 import React from 'react';
-import ButtonWithClick from './ButtonWithClick';
-import ToggleButton from './ToggleButton';
-import Counter from './counter';
-import AppButtons from './AppButtons';
+import DynamicDivForm from './DynamicDivForm';
 
 const App = () => {
   return (
     <div>
-      <h2>Button with Click</h2>
-      <ButtonWithClick />
-
-      <h2>Toggle Button</h2>
-      <ToggleButton />
-
-      <h2>Counter</h2>
-      <Counter />
-
-      <h2>App Buttons</h2>
-      <AppButtons />
+      <h1>Dynamic Div App</h1>
+      <DynamicDivForm />
     </div>
   );
 };

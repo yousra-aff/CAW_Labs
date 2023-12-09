@@ -1,0 +1,133 @@
+
+
+.task-list {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .task {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  
+  .task p {
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .task ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .task li {
+    margin: 5px 0;
+  }
+  
+  .task button {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .new-task-form {
+    margin-bottom: 20px;
+  }
+  
+  .new-task-form input {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .new-task-form button {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  
+
+.task-list {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .task {
+    border: 2px solid #3498db; 
+    margin: 10px 0;
+    padding: 15px;
+    background-color: #ecf0f1; 
+    border-radius: 8px;
+  }
+  
+  .task p {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px; 
+    color: #333; 
+  }
+  
+  .task ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .task li {
+    margin: 8px 0;
+    font-size: 14px; 
+  }
+  
+  .task button {
+    padding: 8px 12px;
+    cursor: pointer;
+    background-color: #e74c3c; 
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    font-size: 14px; 
+  }
+  
+  .new-task-form {
+    margin-bottom: 20px;
+  }
+  
+  .new-task-form input {
+    padding: 8px;
+    margin-right: 10px;
+    font-size: 14px; 
+  }
+  
+  .new-task-form button {
+    padding: 8px 12px;
+    cursor: pointer;
+    background-color: #2ecc71; 
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    font-size: 14px; 
+  }
+  
+  
+.new-task-form {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .new-task-form input {
+    flex: 1;
+    padding: 8px;
+    margin-right: 10px;
+    font-size: 14px; 
+  }
+  
+  .new-task-form button {
+    padding: 8px 12px;
+    cursor: pointer;
+    background-color: #2ecc71; 
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    font-size: 14px; 
+  }
+      
